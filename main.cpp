@@ -1,1 +1,5 @@
 #include <window.h>
+
+mainn()
+{
+}
